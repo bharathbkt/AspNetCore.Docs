@@ -120,21 +120,21 @@ Open a command terminal in the project folder and run the following commands:
 
 ### Test the API
 
-The project template creates a `WeatherForecast` API. Call the `Get` method from a browser to test the app.
+The project template creates a `TodoApi` API. Call the `Get` method from a browser to test the app.
 
 # [Visual Studio](#tab/visual-studio)
 
-Press Ctrl+F5 to run the app. Visual Studio launches a browser and navigates to `https://localhost:<port>/WeatherForecast`, where `<port>` is a randomly chosen port number.
+Press Ctrl+F5 to run the app. Visual Studio launches a browser and navigates to `https://localhost:<port>/TodoApi`, where `<port>` is a randomly chosen port number.
 
 If you get a dialog box that asks if you should trust the IIS Express certificate, select **Yes**. In the **Security Warning** dialog that appears next, select **Yes**.
 
 # [Visual Studio Code](#tab/visual-studio-code)
 
-Press Ctrl+F5 to run the app. In a browser, go to following URL: [https://localhost:5001/WeatherForecast](https://localhost:5001/WeatherForecast).
+Press Ctrl+F5 to run the app. In a browser, go to following URL: [https://localhost:5001/TodoApi](https://localhost:5001/TodoApi).
 
 # [Visual Studio for Mac](#tab/visual-studio-mac)
 
-Select **Run** > **Start Debugging** to launch the app. Visual Studio for Mac launches a browser and navigates to `https://localhost:<port>`, where `<port>` is a randomly chosen port number. An HTTP 404 (Not Found) error is returned. Append `/WeatherForecast` to the URL (change the URL to `https://localhost:<port>/WeatherForecast`).
+Select **Run** > **Start Debugging** to launch the app. Visual Studio for Mac launches a browser and navigates to `https://localhost:<port>`, where `<port>` is a randomly chosen port number. An HTTP 404 (Not Found) error is returned. Append `/TodoApi` to the URL (change the URL to `https://localhost:<port>/TodoApi`).
 
 ---
 
